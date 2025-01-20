@@ -1,0 +1,14 @@
+C:\Users\Saif Mansoor\Projects and Study Material\FinanceManagement_Proj\ConsoleApp1\bin\Debug\net9.0\ConsoleApp1.exe
+C:\Users\Saif Mansoor\Projects and Study Material\FinanceManagement_Proj\ConsoleApp1\bin\Debug\net9.0\ConsoleApp1.deps.json
+C:\Users\Saif Mansoor\Projects and Study Material\FinanceManagement_Proj\ConsoleApp1\bin\Debug\net9.0\ConsoleApp1.runtimeconfig.json
+C:\Users\Saif Mansoor\Projects and Study Material\FinanceManagement_Proj\ConsoleApp1\bin\Debug\net9.0\ConsoleApp1.dll
+C:\Users\Saif Mansoor\Projects and Study Material\FinanceManagement_Proj\ConsoleApp1\bin\Debug\net9.0\ConsoleApp1.pdb
+C:\Users\Saif Mansoor\Projects and Study Material\FinanceManagement_Proj\ConsoleApp1\obj\Debug\net9.0\ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Saif Mansoor\Projects and Study Material\FinanceManagement_Proj\ConsoleApp1\obj\Debug\net9.0\ConsoleApp1.AssemblyInfoInputs.cache
+C:\Users\Saif Mansoor\Projects and Study Material\FinanceManagement_Proj\ConsoleApp1\obj\Debug\net9.0\ConsoleApp1.AssemblyInfo.cs
+C:\Users\Saif Mansoor\Projects and Study Material\FinanceManagement_Proj\ConsoleApp1\obj\Debug\net9.0\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\Saif Mansoor\Projects and Study Material\FinanceManagement_Proj\ConsoleApp1\obj\Debug\net9.0\ConsoleApp1.dll
+C:\Users\Saif Mansoor\Projects and Study Material\FinanceManagement_Proj\ConsoleApp1\obj\Debug\net9.0\refint\ConsoleApp1.dll
+C:\Users\Saif Mansoor\Projects and Study Material\FinanceManagement_Proj\ConsoleApp1\obj\Debug\net9.0\ConsoleApp1.pdb
+C:\Users\Saif Mansoor\Projects and Study Material\FinanceManagement_Proj\ConsoleApp1\obj\Debug\net9.0\ConsoleApp1.genruntimeconfig.cache
+C:\Users\Saif Mansoor\Projects and Study Material\FinanceManagement_Proj\ConsoleApp1\obj\Debug\net9.0\ref\ConsoleApp1.dll

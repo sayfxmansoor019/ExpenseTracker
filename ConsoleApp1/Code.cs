@@ -12,7 +12,7 @@ namespace FinanceTracker
 
             do
             {
-                Console.WriteLine("=== Finance Tracker ===");
+                Console.WriteLine("== Finance Tracker ===");
                 Console.WriteLine("1. Add Transaction");
                 Console.WriteLine("2. View Transactions");
                 Console.WriteLine("3. Generate Monthly Summary");
